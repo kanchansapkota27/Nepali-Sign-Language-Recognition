@@ -6,7 +6,7 @@
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)
 ![ProjectType](https://img.shields.io/badge/ProjectType-University-blue)
-![Paper Staus](https://img.shields.io/badge/PaperStatus-InPublication-blueviolet)
+[![Paper Staus](https://img.shields.io/badge/PaperStatus-InPublication-blueviolet)](https://www.appleacademicpress.com/machine-learning-algorithms-in-security-analytics-applications-principles-and-practices/9781774912393)
 
 # Abstract
 
