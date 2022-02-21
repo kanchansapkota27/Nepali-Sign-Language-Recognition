@@ -42,3 +42,8 @@ pip install -r requirements.txt
 # Run main GUI
 python app.py 
 ```
+
+## Authors
+
+- [Kanchan Sapkota](https://github.com/kanchansapkota27)
+- [Sailesh Rana](https://www.github.com/Sailesh01)
